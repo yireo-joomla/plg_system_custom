@@ -10,3 +10,10 @@ This example shows the following:
 - Runtime calling of the right mixin methods
 - Mixins grouped in subfolders with namespaces
 - Some Reflection fun
+
+---
+## Want to learn how to program Joomla plugins?
+We have released an excellent guide for developing Joomla plugins: **Programming Joomla Plugins** written by Jisse Reitsma, a must-have for any serious Joomla developer.
+
+https://www.yireo.com/books/programming-joomla-plugins-book
+
