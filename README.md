@@ -1,7 +1,7 @@
 Custom Plugin
 =============
 
-This Joomla plugin gives examples of how to use traits and a parent
+This Joomla plugin gives examples of how to use mixins and a parent
 class, to easily create a custom plugin per project.
 
 This example shows the following:
